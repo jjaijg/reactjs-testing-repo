@@ -1,3 +1,4 @@
+import ReactDOM from 'react-dom';
 import { render, waitFor, cleanup } from '@testing-library/react';
 import AppAxios from '../../components/AppAxios';
 
