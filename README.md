@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/jjaijg/reactjs-testing-repo/badge.svg?branch=main)](https://coveralls.io/github/jjaijg/reactjs-testing-repo?branch=main)
+
 # React Testing Repo
 
 This repo was used to learn testing for ReactJS
