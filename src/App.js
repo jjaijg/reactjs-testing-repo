@@ -33,7 +33,7 @@ function App() {
       >
         <AppHookContext />
       </Context.Provider>
-      <AppAxios url='https://jsonplaceholder.typicode.com/posts/1' />
+      {/* <AppAxios url='https://jsonplaceholder.typicode.com/posts/1' /> */}
     </div>
   );
 }
